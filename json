@@ -1,0 +1,7 @@
+{
+  "prompt": "Documentary photography style. A vast pebble beach by a stormy dark grey ocean under heavy overcast sky. Hundreds of worn, discarded children's and adult shoes of many colors are meticulously arranged across the wet gravel shoreline to form the unmistakable outline of a world map, with continents clearly shaped by the dense clusters of shoes. Tangled ropes and strings weave through the map like borders or currents. In the immediate foreground, a single pair of small worn blue children's sneakers sits slightly apart on the shore. Scattered seashells and a small weathered wooden plank with beads and debris lie nearby. The water extends to every horizon. Mood: profound global absence and the overwhelming weight of what is not shown. Color palette: deep slate-grey water with whitecaps, pale grey gravel, muted tones with one vivid patch of faded blue on the foreground shoes. Hyper-realistic, high detail, cinematic natural light, no people visible, no text, no labels, no chart elements, no statistics.",
+  "model": "Banana (Gemini Imagen)",
+  "dataset_name": "UNHCR Global Trends.csv",
+  "dataset_url": "https://www.unhcr.org/refugee-statistics/download/",
+  "insight": "By 2023, 1 in 74 people on Earth had been forcibly displaced — the highest ratio ever recorded"
+}
